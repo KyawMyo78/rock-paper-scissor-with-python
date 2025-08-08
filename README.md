@@ -173,8 +173,7 @@ The game recognizes these hand gestures:
 Object Detection with python/
 ├── live_rsp.py           # Main game file
 ├── requirements.txt      # Python dependencies
-├── README.md            # This file
-└── hand_landmarker.task # MediaPipe model file
+└── README.md            # This file
 ```
 
 ### Key Functions
@@ -212,3 +211,4 @@ If you encounter issues:
 ---
 
 **Enjoy playing Rock Paper Scissors with AI! 🎮✨**
+
