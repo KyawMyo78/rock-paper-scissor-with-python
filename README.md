@@ -42,7 +42,7 @@ An interactive Rock Paper Scissors game that uses computer vision and AI to dete
 ### Step 1: Clone or Download
 ```bash
 git clone <repository-url>
-cd Object\ Detection\ with\ python
+cd <repository-location-in-your-computer>
 ```
 
 ### Step 2: Install Dependencies
@@ -211,4 +211,5 @@ If you encounter issues:
 ---
 
 **Enjoy playing Rock Paper Scissors with AI! 🎮✨**
+
 
